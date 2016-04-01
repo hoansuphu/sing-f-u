@@ -1,2 +1,2 @@
 hien- line1 hien abc Hoan append line1
-line2
+line2 - Hoan edit line2
